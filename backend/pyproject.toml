@@ -1,0 +1,16 @@
+[project]
+name = "cyberbullying-backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.136.1",
+    "joblib>=1.5.3",
+    "nltk>=3.9.4",
+    "pandas>=3.0.3",
+    "python-multipart>=0.0.28",
+    "scikit-learn>=1.8.0",
+    "uvicorn>=0.46.0",
+    "xgboost>=3.2.0",
+]
